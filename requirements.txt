@@ -1,0 +1,15 @@
+google-genai>=1.0
+kivy>=2.3.0,<2.4
+kivymd==1.2.0
+plyer>=2.1.0
+pystray>=0.19.5
+keyboard>=0.13.5
+Pillow>=10.0
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+pyautogui>=0.9.54
+psutil>=5.9
+python-dotenv>=1.0
+edge-tts>=7.0
+pygame>=2.6
+opencv-python>=4.10
